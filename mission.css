@@ -1,0 +1,21 @@
+body {
+  background-color: Azure;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 40px;
+  color: MediumVioletRed;
+}
+
+h2 {
+  font-weight: lighter;
+  font-size: 20px;
+  color: LightSeaGreen;
+}
+span {
+  color: MediumVioletRed;
+}
+#special {
+  color: black;
+  font-style: italic;
+}

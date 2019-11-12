@@ -1,0 +1,20 @@
+ body {
+  background-color: Azure;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 60px;
+}
+h1, h3 {
+  color: MediumVioletRed;
+  font-family: cursive;
+}
+h3 {
+  color: LightSeaGreen;
+}
+span {
+  color: MediumVioletRed;
+}
+#special {
+  color: OrangeRed;
+}

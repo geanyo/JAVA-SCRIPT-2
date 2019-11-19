@@ -1,0 +1,16 @@
+
+#p1 {
+    font-weight: bold;
+    font-family: 'Montserrat';
+    text-decoration: line-through;
+    font-size: 1.4em;
+    line-height: 1.5em;
+    text-align: justify;
+}
+p {
+    font-weight: lighter;
+    font-family: 'Open Sans';
+    font-size: 1em;
+    line-height: 1em;
+    text-align: center;
+}

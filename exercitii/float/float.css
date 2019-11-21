@@ -1,0 +1,10 @@
+div#float {
+    /* float: right; */
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: lightpink;
+}
+div.text {
+    background-color: lightcyan;
+}

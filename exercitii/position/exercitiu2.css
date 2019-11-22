@@ -1,11 +1,25 @@
 body {
     box-sizing: border-box;
+    width: 500px;
+    align-content: center;
+    margin: auto;
 }
-h1 {
+h1, h2 {
     font-family: 'Barlow';
-    font-weight: lighter;
+    font-weight: normal;
     font-size: 1.5em;
 }
+#imagine {
+    /* background-image: url(cactus.png); */
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto;
+}
+div p {
+    font-family: 'Barlow';
+    font-weight: normal;
+    font-size: 0.8em;
+
 
 
 
